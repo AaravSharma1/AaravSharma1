@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hey, I'm Aarav 👋🏽  
 
-<!--
-**AaravSharma1/AaravSharma1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science major at the Georgia Institute of Technology with a concentration in Information Internetworks and Intelligence. 
 
-Here are some ideas to get you started:
+Check out my [website](https://aaravsharma1.github.io/) to learn more about me.
+ 
+## 📦 Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming Languages:** `Python` `Java` `Swift` `Kotlin` `HTML` `CSS`
+
+**Frontend Development:** `React Native` `HTML5` `Android Studio` `Bootstrap` `Flutter` 
+
+**Backend Development:** `Python` `Django` `Firebase` `Node.js` `Docker` 
+
+**Machine Learning:** `TensorFlow` `PyTorch` `Keras` `Pandas` `Anaconda` `NumPy`
+
+**Version Control:** `Git` `GitLab` `Bitbucket`
+
+## ✨ Fun Facts 
+
+- I love night photography.
+- I enjoy travelling and learning about different cultures.
+- I play tennis and volleyball.
+
+## 📫 Contact
+
+ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aaravsharma1/) or send me an [Email](mailto:aarav.sharma@gatech.edu).
