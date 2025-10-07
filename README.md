@@ -2,7 +2,7 @@
 
 I'm a computer science major at the Georgia Institute of Technology with a concentration in Information Internetworks and Intelligence. 
 
-Check out my [website](https://aaravsharma1.github.io/) to learn more about me.
+Check out my [website](https://aaravtech.me) to learn more about me.
  
 ## 📦 Toolbox
 
